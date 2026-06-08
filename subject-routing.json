@@ -1,0 +1,12 @@
+[
+  {
+    "postalCode": "98201",
+    "targetType": "Postal Code",
+    "googleCanonicalName": "98201,Everett,WA,United States",
+    "parentCountyCriteriaId": 1024457,
+    "subject": "real_estate",
+    "searchQueryBehavior": "platform_deep_link",
+    "routingDestination": "https://find-a-real-estate-agent.com/neighborhoods/neighborhood.html?city=everett&zip=98201",
+    "marketTier": "Snohomish Core"
+  }
+]
